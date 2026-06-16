@@ -2,13 +2,6 @@
 
 Projekt symuluje działanie algorytmów szeregowania procesów znanych z systemów operacyjnych. Program generuje zestaw procesów, przeprowadza symulację wybranego algorytmu, oblicza czasy oczekiwania i realizacji, a następnie zapisuje wyniki do baz danych SQLite i eksportuje je do plików CSV.
 
-## Wymagania
-
-- Python 3
-- numpy
-
-Pozostałe zależności (`sqlite3`, `csv`) są częścią biblioteki standardowej Python.
-
 ## Uruchomienie
 
 ```bash
